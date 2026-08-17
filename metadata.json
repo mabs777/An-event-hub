@@ -1,0 +1,6 @@
+{
+  "name": "APK Details Page",
+  "description": "A responsive APK details and download portal featuring app specs, FAQ accordions, discover apps grid, interactive reviews, and download manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
